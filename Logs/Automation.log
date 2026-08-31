@@ -1198,3 +1198,21 @@
 12:57:09.718 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
 12:57:09.719 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
 12:57:09.719 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:49:56.013 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Eclipse\Url_Shortner_Testing\master.xml"
+22:49:56.397 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup()[pri:0, instance:null] 524538176
+22:49:56.398 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:49:56.404 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:49:56.405 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:49:56.405 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:49:56.408 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.TearDown()[pri:0, instance:null] -1155029673
+22:49:56.408 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:49:56.408 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:49:56.408 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:49:56.408 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:49:56.421 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC_001LogIn_Functionality_Test.TestLogIn()[pri:0, instance:TestCases.TC_001LogIn_Functionality_Test@5ba88be8] 2071938524
+22:49:56.421 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:49:56.422 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:49:56.422 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:49:56.422 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:50:13.541 [main] INFO  TestCases.TC_001LogIn_Functionality_Test - ********** LOGIN TEST STARTED**********
+22:50:13.571 [main] INFO  TestCases.TC_001LogIn_Functionality_Test - Performing Action on UserName, Password and LogIn Button

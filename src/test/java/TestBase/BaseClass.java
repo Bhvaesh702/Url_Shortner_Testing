@@ -31,7 +31,7 @@ public class BaseClass {
 
 	public void Setup() throws IOException
 	{
-		logger= LogManager.getLogger(this.getClass());
+		logger= LogManager.getLogger(this.getClass()); 
 		FileReader file= new FileReader("./src//test//resources//config.properties");
 		p=new Properties();
 		driver= new ChromeDriver();
